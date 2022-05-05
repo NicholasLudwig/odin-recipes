@@ -1,0 +1,34 @@
+.chicken-title {
+ color: rgb(255, 174, 0);
+}
+
+.beef-title {
+ color: red;
+}
+
+.pork-title {
+ color: green;
+}
+
+.reclinks {
+ font-size: 24px;
+}
+
+.home-title {
+ font-size: 48px;
+}
+
+.chicken,
+.beef,
+.pork,
+.home-title,
+.home-image,
+.reclinks,
+.home-ref {
+ text-align: center;
+}
+
+.porkpic {
+ height: auto;
+ width: 425px;
+}
