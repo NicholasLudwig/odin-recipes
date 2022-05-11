@@ -14,6 +14,11 @@
  font-size: 28px;
 }
 
+.home-links {
+ text-align: center;
+ font-size: 22px;
+}
+
 .home-title,
 .rec-title {
  font-size: 48px;
